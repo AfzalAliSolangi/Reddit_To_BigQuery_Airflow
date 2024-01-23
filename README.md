@@ -22,3 +22,4 @@ Reddit_To_BigQuery_Airflow, a streamlined data pipeline that extracts valuable i
 5. **Google BigQuery:**
    - The final destination for processed data, enabling powerful and scalable analytics and insights.
 
+### Steps to Set Up:
