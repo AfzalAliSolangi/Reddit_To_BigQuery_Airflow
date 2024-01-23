@@ -23,3 +23,10 @@ Reddit_To_BigQuery_Airflow, a streamlined data pipeline that extracts valuable i
    - The final destination for processed data, enabling powerful and scalable analytics and insights.
 
 ### Steps to Set Up:
+1. **Reddit API**
+   - Create an application by visiting, https://www.reddit.com/prefs/apps.
+   - Make sure to select script and fill other fields with you information.
+     ![image](https://github.com/AfzalAliSolangi/Reddit_To_BigQuery_Airflow/assets/100179604/7b1c88e9-996d-4b78-a52c-70475dc72d03)
+   - After clicking on create app button, the app will be created.
+     ![image](https://github.com/AfzalAliSolangi/Reddit_To_BigQuery_Airflow/assets/100179604/66e76b4d-ca0b-47d8-909c-1b843a7360ae)
+   - The app will give you CLIENT_ID and CLIENT_SECRET.
