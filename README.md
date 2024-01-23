@@ -1,3 +1,4 @@
 # Reddit_To_BigQuery_Airflow
 ### Description:
-This project leverages the Reddit API to collect and extract valuable data, which is then seamlessly integrated into Google BigQuery. The entire workflow is orchestrated and automated using Apache Airflow, providing a robust and scalable solution for data ingestion and analysis.
+Reddit_To_BigQuery_Airflow, a streamlined data pipeline that extracts valuable insights from Reddit using the Reddit API. Orchestrated by Apache Airflow, the process seamlessly uploads data to Google Cloud Storage, processes it with Dataproc, and deposits it into a BigQuery table. This automated workflow ensures efficient data analysis, making it easy to explore and leverage Reddit data at scale. Dive into the power of automation and scalability.
+
