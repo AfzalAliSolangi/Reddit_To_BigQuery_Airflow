@@ -30,3 +30,5 @@ Reddit_To_BigQuery_Airflow, a streamlined data pipeline that extracts valuable i
    - After clicking on create app button, the app will be created.
      ![image](https://github.com/AfzalAliSolangi/Reddit_To_BigQuery_Airflow/assets/100179604/66e76b4d-ca0b-47d8-909c-1b843a7360ae)
    - The app will give you CLIENT_ID and CLIENT_SECRET.
+2. **Setting Python Files**
+   - In *reddit_pipeline.py*
