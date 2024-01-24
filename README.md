@@ -33,5 +33,8 @@ Reddit_To_BigQuery_Airflow, a streamlined data pipeline that extracts valuable i
 2. **Setting Python Files**
    - In *reddit_pipeline.py* put the CLIENT_ID and CLIENT_SECRET.
      ![image](https://github.com/AfzalAliSolangi/Reddit_To_BigQuery_Airflow/assets/100179604/203c7300-7968-46cc-95a2-2cc56e7d2d4a)
+3. **Setting the DAG**
+   - In *Reddit_dag.py*, fill the green fields with the respective configuration.
+     ![image](https://github.com/AfzalAliSolangi/Reddit_To_BigQuery_Airflow/assets/100179604/d9444986-4ffd-4787-9438-4e52282586d6)
 
 
