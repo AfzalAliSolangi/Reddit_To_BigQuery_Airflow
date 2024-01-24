@@ -38,6 +38,12 @@ Reddit_To_BigQuery_Airflow, a streamlined data pipeline that extracts valuable i
      ![image](https://github.com/AfzalAliSolangi/Reddit_To_BigQuery_Airflow/assets/100179604/d9444986-4ffd-4787-9438-4e52282586d6)
    - The DAG should look like this:
      ![image](https://github.com/AfzalAliSolangi/Reddit_To_BigQuery_Airflow/assets/100179604/e9506526-b52d-4af6-bac9-6b66c49efd51)
+4. **Creating Table in the BigQuery**
+   - In your desired dataset create the Table using create table script from from *Create_Table.txt*.
+     ![image](https://github.com/AfzalAliSolangi/Reddit_To_BigQuery_Airflow/assets/100179604/625d34f1-15f8-4d83-90ae-79570ebfe89c)
+     
+### Running The ETL:
 
+     
 
 
