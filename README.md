@@ -36,5 +36,8 @@ Reddit_To_BigQuery_Airflow, a streamlined data pipeline that extracts valuable i
 3. **Setting the DAG**
    - In *Reddit_dag.py*, fill the green fields with the respective configuration.
      ![image](https://github.com/AfzalAliSolangi/Reddit_To_BigQuery_Airflow/assets/100179604/d9444986-4ffd-4787-9438-4e52282586d6)
+   - The DAG should look like this:
+     ![image](https://github.com/AfzalAliSolangi/Reddit_To_BigQuery_Airflow/assets/100179604/e9506526-b52d-4af6-bac9-6b66c49efd51)
+
 
 
