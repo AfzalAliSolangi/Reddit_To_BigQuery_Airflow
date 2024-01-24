@@ -1,0 +1,18 @@
+CREATE TABLE `PROJECT_NAME.DATASET_NAME.Reddit4` (
+  id STRING,
+  created_utc TIMESTAMP,
+  url STRING,
+  author STRING,
+  upvote_ratio FLOAT64,
+  num_comments INT64,
+  stickied BOOL,
+  score INT64,
+  spoiler BOOL,
+  title STRING,
+  over_18 BOOL,
+  edited BOOL,
+  selftext STRING
+);
+
+--Replace PROJECT_NAME with your project name.
+--Replace DATASET_NAME with your dataset name.
