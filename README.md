@@ -54,7 +54,7 @@ Reddit_To_BigQuery_Airflow, a streamlined data pipeline that extracts valuable i
      ![image](https://github.com/AfzalAliSolangi/Reddit_To_BigQuery_Airflow/assets/100179604/68194750-3c5e-4c93-8db4-2f368db80d7f)
 
 ## Usage:
-   - I have used r/GTAVI subrettid for this project. It can be used for any subreddit to extract out all the posts of a single day. Further the data can be explored within the BigQuery or using tools like Tableau or PowerBI to build interactive dashboard.
+   - I have used r/GTA6 subrettid for this project. It can be used for any subreddit to extract out all the posts of a single day. Further the data can be explored within the BigQuery or using tools like Tableau or PowerBI to build interactive dashboard.
 
 
 
