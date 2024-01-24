@@ -42,7 +42,10 @@ Reddit_To_BigQuery_Airflow, a streamlined data pipeline that extracts valuable i
 4. **Creating Table in the BigQuery**
    - In your desired dataset create the Table using create table script from from *Create_Table.txt*.
      ![image](https://github.com/AfzalAliSolangi/Reddit_To_BigQuery_Airflow/assets/100179604/625d34f1-15f8-4d83-90ae-79570ebfe89c)
-     
+5. **Setting up GCS Bucket**
+   - Create a Bucket with the structure below and upload the *reddit_GCS_To_BigQuery.py* file into the Scripts folder.
+     ![image](https://github.com/AfzalAliSolangi/Reddit_To_BigQuery_Airflow/assets/100179604/fac858fa-e58e-4358-83a7-0d607f896719)
+
 ## Running The ETL:
    - Manually trigger the *etl_reddit_pipeline* or configure it to trigger at desired time.
      ![image](https://github.com/AfzalAliSolangi/Reddit_To_BigQuery_Airflow/assets/100179604/35f7303d-80da-4e9e-a570-30ec262bf58f)
